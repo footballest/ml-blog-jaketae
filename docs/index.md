@@ -9,7 +9,7 @@ Welcome! This site collects my Colab notebooks that **reproduce, explain, or ext
 ## Posts
 | Date | Topic | Notebook | GitHub |
 |---|---|---|---|
-| YYYY‑MM‑DD | TITLE (link to original) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/notebooks/<file>.ipynb) | [View](https://github.com/<your-username>/<your-repo>/blob/main/notebooks/<file>.ipynb) |
+| 2025-10-05 | Word2Vec from Scratch (test) ([original](https://jaketae.github.io/posts/word2vec/)) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/footballest/ml-blog-jaketae/blob/main/notebooks/word2vec.ipynb) | [View](https://github.com/footballest/ml-blog-jaketae/blob/main/notebooks/word2vec.ipynb) |
 
 ---
 
